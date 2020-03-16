@@ -24,11 +24,6 @@
 .w-icon-slider-left:before {
   content: "\e601";
 }
-.w-inline-block {
-  max-width: 100%;
-  display: inline-block;
-    color: white;
-}
 .w-icon-nav-menu:before {
   content: "\e602";
 }
@@ -73,6 +68,7 @@ html.w-mod-touch * {
 .w-inline-block {
   max-width: 100%;
   display: inline-block;
+    color: white;
 }
 .w-clearfix:before,
 .w-clearfix:after {
